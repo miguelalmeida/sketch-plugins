@@ -15,3 +15,4 @@ These are the plugins in my sketch setup.
 ## Tools
 * Creating segmented circles: https://github.com/design4use/gb-sketch-segmentcircle
 * Measuring dimensions in sketch: http://utom.design/measure/
+* Creating Charts from data: https://github.com/pavelkuligin/chart
